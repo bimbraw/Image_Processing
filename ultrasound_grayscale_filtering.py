@@ -37,3 +37,5 @@ for i in range(0,img.shape[0]):
 #0 black 255 white
 #printing out percentage of majority white part
 print((float(q)/float(img.size))*100)
+
+#no way an algorithm better than https://www.ncbi.nlm.nih.gov/pubmed/30530325 be used without using machine learning
